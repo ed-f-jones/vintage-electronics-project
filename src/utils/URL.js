@@ -1,3 +1,3 @@
 // url
-export default "https://johnsmilga.com/project/react-tech-store-v2";
+export default "https://johnsmilgatutorials.com/projects/react-tech-store-v2";
 
