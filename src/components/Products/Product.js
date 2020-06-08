@@ -10,7 +10,7 @@ export default function Product({image, title, id, price}) {
         details
       </Link>
     </div>
-    <div class="product-footer">
+    <div className="product-footer">
       <p className="product-title">{title}</p>
       <p className="product-price"> ${price}</p>
     </div>
